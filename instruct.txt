@@ -1,0 +1,4 @@
+git status - перевіряємо зміни
+git add file.html - додаємо файл
+git commit -m "коментар"
+git push orirgin test - закидаємо в гіт
